@@ -1,6 +1,6 @@
 # 👩‍💻 Menna Tallah Ashraf | Cyber Security Engineer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Cyber+Security+Engineer;Passionate+about+Digital+Defense;CTF+Player+%7C+Secure+Coding+Advocate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Cyber+Security+Engineer)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/menna-ashraf-4b410830a)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mtallah658@gmail.com)
