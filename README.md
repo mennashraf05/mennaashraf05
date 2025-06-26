@@ -45,7 +45,8 @@
 ### 🔐 Cyber Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268bd2?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-00bfff?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1c9ad6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1c9ad6?style=for-the-badge&logoColor=white)
+
 
 
 ### ⚙️ Tools & Platforms
