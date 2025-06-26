@@ -1,11 +1,14 @@
-# 👩‍💻 Menna Tallah Ashraf | Cyber Security Engineer
+<h1 align="center">👩‍💻 Menna Tallah Ashraf | Cyber Security Engineer</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Cyber+Security+Engineer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Enthusiast;Ethical+Hacking+Learner;Front-End+Developer;Linux+Admin&center=true&width=500&height=40" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/menna-ashraf-4b410830a)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mtallah658@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mennashraf05)
-![Profile Views](https://komarev.com/ghpvc/?username=mennashraf05&style=flat-square&color=blue)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mennaashraf05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
