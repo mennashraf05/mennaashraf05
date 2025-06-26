@@ -27,6 +27,45 @@
 
 ---
 
+## 💼 Internships & Trainings
+
+### 🔐 **Cyber Security & Ethical Hacking Intern**  
+**Brainwave Matrix Solutions** — *Jul 2025 – Aug 2025*  
+Selected as a Cyber Security and Ethical Hacking Intern. Engaged in simulated cyberattack environments and real-case vulnerability assessments under professional mentorship.
+
+---
+
+### 🛡️ **Cybersecurity Intern**  
+**UneeQ Interns** — *Jul 2025 – Aug 2025*  
+Focused on network security, ethical hacking, vulnerability assessment, and digital forensics. Gained hands-on experience solving real-world security challenges under expert supervision.
+
+---
+
+### 🌐 **Front-End Web Development Intern**  
+**Information Technology Institute (ITI)** — *Jul 2025 – Aug 2025*  
+Worked with HTML, CSS, JavaScript, and responsive design principles. Developed user-friendly and interactive web interfaces with a focus on UI/UX best practices.
+
+---
+
+### 💻 **Software Development Intern**  
+**SaiKet Systems** — *Jun 2025 – Jul 2025*  
+Contributed to innovative web solutions and modern UI/UX projects. Collaborated with cross-functional teams to develop responsive and user-centric applications.
+
+---
+
+### 🐧 **Linux Administration Intern**  
+**Information Technology Institute (ITI)** — *Jul 2024 – Aug 2024*  
+Training covered system configuration, user and permission management, networking basics, shell scripting, and system security fundamentals in Linux environments.
+
+---
+
+### ⚡ **Cybersecurity Intern (Industrial Sector)**  
+**West Delta Electricity Production Company** — *Jul 2024 – Aug 2024*  
+Introduced to cyber risk management and network security practices within industrial control systems. Attended sessions on data protection, vulnerability mitigation, and cybersecurity in critical infrastructure.
+
+---
+
+
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages
