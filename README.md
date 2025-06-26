@@ -29,17 +29,29 @@
 
 ## 🛠️ Technical Skills
 
-**Languages:**  
-`C` `Python` `Java` `JavaScript`
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web Development:**  
-`HTML5` `CSS3` `PHP` `MySQL`
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cyber Security Tools:**  
-`Kali Linux` `Cisco Packet Tracer` `Wireshark`
+### 🔐 Cyber Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268bd2?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-00bfff?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1c9ad6?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Platforms & Tools:**  
-`Linux` `Git` `GitHub` `VS Code`
+### ⚙️ Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-fdd835?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
